@@ -1,3 +1,5 @@
+// Copyright 2025 Vladlen Korablev
+
 int gcd(int a, int b) {
   while (b != 0) {
     int temp = b;
